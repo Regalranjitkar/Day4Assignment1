@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 100%;
+    background-color: white;
+    font-size: 0%;
+    overflow: hidden;
+}
+.top-container{
+    width: 100%;
+}
+.top-black-container{
+    width: 100%;
+    background-color: black;
+    margin: auto;
+    
+}
+.search-bar{
+    text-align: center;
+}
+input{
+    width: 40%;
+} 
+button{
+    background-color: lightgreen;
+}
+.emaze{
+    margin-left: 15%;
+    display: inline-block;
+}
+img{
+    height: 12vh;
+}
+.list{
+    width: 30%;
+    color: white;
+    list-style-type: none;
+    font-size: medium;
+    display: inline-block;
+    text-align: right;
+    margin-left: 25%;
+    padding-bottom: 2%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.list li{
+    display: inline-block;
+    margin: 2%;
+}
+.list li:hover{
+    color: orange;
+}
+.top-orange-container{
+    width: 100%;
+    
+    font-size: medium;
+    color: white;
+    background-color: orange;
+    padding: 0.5%;
+}
+.top-orange-container a{
+    display: inline-block;
+    margin-left: 1%;
+}
+.orange-bar-nav{
+    margin-left: 15%;
+    padding-top: 0.3%;
+    box-sizing: border-box;
+}
+a{
+    color: white;
+}
+#unq{
+    background-color: black;
+    color: white;
+}
+.opt{
+    background-color: orange;
+    border: none;
+    color: white;
+    outline: none;
+}
+.box{
+    width: 80%;
+    height: 15vh;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 4%;
+    overflow: hidden;
+    font-size: medium;
+    text-align: center;
+}
+.inside-box{
+    width:0.6%;
+    height:15vh;
+    background-color:orange;
+    display: inline-block;
+}
+.heading{
+    display: inline-block;
+    width: 75%;
+    font-size: 200%;
+    margin-left: 8%;
+    color:blue;
+    margin-bottom: 10%;
+}
+#first{
+    margin-left: -0.5%;
+}
+#share-khiladi{
+    background-color: black;
+}
+.highlights{
+    width: 100%;
+    padding-top: 5%;
+    overflow: hidden;
+}
+.highlights-first{
+    width:75%;
+    padding-left: 15%;
+    margin-bottom: 5%;
+    overflow: hidden;
+}
+.orange-box{
+    width: 0.5%;
+    padding-bottom: 10%;
+    background-color: orange;
+    display: inline-block;
+}
+.highlight-news{
+    width: 90%;
+    font-size: xx-large;
+    color: blue;
+    margin-left: 2%;
+    display: inline-block;
+    overflow: hidden;
+    margin-bottom: 3%;
+}
+#last-news{
+    margin-bottom: 0%;
+}
